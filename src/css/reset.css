@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -13,3 +14,20 @@ body {
 ul {
     list-style-type: none;
 }
+=======
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden
+}
+
+ul {
+    list-style-type: none;
+}
+>>>>>>> e3ad3b2 (a)
